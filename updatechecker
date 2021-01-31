@@ -1,0 +1,15 @@
+{
+  "homepage": "<https://www.curseforge.com/minecraft/mc-mods/milmod/>",
+  "<mcversion>": {1.16.4}
+    "<modversion>": "<created. inaccessible atm.>", 
+    0.1
+  },
+  ...
+  "promos": {
+    "<mcversion>-latest": "<0.1>",
+    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
+    "<mcversion>-recommended": "<o.1>",
+    // Declare the latest "stable" version of your mod for the given Minecraft version
+    ...
+  }
+}
